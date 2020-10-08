@@ -1,0 +1,63 @@
+
+/* Style Sheet for WildernessTrails.org */
+
+body {
+    font-family: "Helvetica Neue" , Helvetica, Arial, Times New Roman;
+    font-size: 12pt;
+    color: #000000;
+    background-color: #EAEAEA;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100%;
+}
+
+hr {
+    clear: both;
+    width: 99%;
+    height: 0.25em;
+    text-align: left;
+    background-color: #808080;
+    color: #808080;
+}
+
+table {
+	margin:0;
+	padding:0;
+	border-collapse:collapse;
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+    background-color: #576572; 
+}
+
+td {
+	text-align:left;
+	padding-right:0.25em;
+	padding-left:0.25em;
+}
+
+
+.PageTitleArea {
+    background-color: #405268;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #808080;
+}
+
+.PageTitleText {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #000000;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.BoxBorder {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #808080;
+    padding: 0.25em;
+}
+    
